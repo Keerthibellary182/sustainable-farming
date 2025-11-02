@@ -12,3 +12,6 @@ To collect and preprocess a dataset of healthy and diseased plant leaf images.
 To design and train a CNN model that can classify plant leaf images into disease categories.
 To evaluate the model’s accuracy and performance using appropriate metrics.
 To develop a simple user interface or web app (optional) for real-time disease detection.
+
+dataset name: plant disease detection dataset
+dataset link: https://www.kaggle.com/datasets/karagwaanntreasure/plant-disease-detection
